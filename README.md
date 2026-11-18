@@ -78,7 +78,8 @@ Testing the webserver.
 </body>
 </html>
 # OUTPUT:
-<img width="1871" height="885" alt="output png" src="https://github.com/user-attachments/assets/fa8e3e22-21d0-492d-a2c6-edfaaf73a7c3" />
+<img width="1607" height="886" alt="output png" src="https://github.com/user-attachments/assets/f6163b60-2b6a-413f-b78b-add2ffdd626d" />
+<img width="1062" height="387" alt="Screenshot 2026-11-18 114735" src="https://github.com/user-attachments/assets/d8e4bb62-fb71-4fac-8d18-f062fe374d7d" />
 
 # RESULT:
 The program for implementing simple webserver is executed successfully.
